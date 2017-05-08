@@ -2,6 +2,9 @@ package com.coolweather.android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
+
+import com.coolweather.android.util.LogUtil;
 
 public class MainActivity extends AppCompatActivity {
 
